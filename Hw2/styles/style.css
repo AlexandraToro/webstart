@@ -1,0 +1,32 @@
+html{
+    font-family: Lora;
+    background: DarkGrey;
+    color: #F5F5F5;
+}
+
+body {
+    padding: 5px 20px 200px 200px;
+    }
+h1{
+    color: #4d2929
+}
+p{
+font-size: 25px;
+}
+
+.list{
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    font-size: 20px;
+}
+
+.image{
+    width: 400px;
+    margin: 30px;
+    padding: 20px 20px 20px 20px;
+}
+
+.wiki{
+    color: #4d2929
+}
+
